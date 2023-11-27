@@ -1,6 +1,6 @@
-Made by Christian Koch / Clear Code
+Made by NABIN JANA
 
-The project is published under the CC0 license. You can use it for any project (commercial or not) and attributions are not required but appreicated. 
+The project is published under the CC0 license. You can use it for any project (commercial or not) and attributions are not required but appreciated. 
 This does not include external modules used for these projects (like the Azure theme)
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
